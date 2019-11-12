@@ -1,5 +1,7 @@
 # meituan
 
+美团
+
 ## Project setup
 ```
 npm install
