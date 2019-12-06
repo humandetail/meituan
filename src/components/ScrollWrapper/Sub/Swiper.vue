@@ -48,10 +48,6 @@ export default {
 <style lang="scss" scoped>
 @import '~styles/variables.scss';
 
-.swiper-wrapper >>> .swiper-pagination {
-  background-color: $defaultGreen;
-}
-
 .swiper-wrapper{
   height: 0;
   padding-bottom: 2rem;
