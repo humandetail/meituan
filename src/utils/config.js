@@ -1,4 +1,4 @@
-const BASE_URL = 'http://api.localhost.com/study/meituan/';
+const BASE_URL = 'http://api.humandetail.com/meituan/';
 
 const API = {
   GET_HOME_DATAS: BASE_URL + 'getHomeDatas',
